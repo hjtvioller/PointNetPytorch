@@ -1,0 +1,3 @@
+[submodule "PointNet.pytorch"]
+	path = PointNet.pytorch
+	url = https://github.com/hjtvioller/PointNetPytorch
